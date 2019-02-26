@@ -5,9 +5,7 @@ Open .bash_profile and add these lines:
 
 ```shell
 alias akira="pkill -u [username]
-
 vlc [path]/[to]/akira.mkv --audio-track=2 --sub-track=1 --fullscreen
-
 "
 ```
 
