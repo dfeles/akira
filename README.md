@@ -1,5 +1,5 @@
-# akira
-A script which closes everything and starts playing akira in full screen.
+# Akira
+A script to close everything and start playing Akira in full screen.
 
 Open .bash_profile and add these lines:
 
